@@ -1,5 +1,6 @@
 import React from 'react';
 import App from '../App';
+import Footer from '../Footer';
 
 function AboutMyself() {
     return (
@@ -26,6 +27,7 @@ function AboutMyself() {
                     </p>
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }

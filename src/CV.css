@@ -1,0 +1,18 @@
+#cv #events {
+    visibility: hidden;
+    height: 0px;
+}
+
+#cv h3 {
+    margin-bottom: 10px;
+}
+
+.cv {
+    margin-bottom: 50px;
+    max-width: 900px;
+}
+
+.cv p {
+    margin-bottom: 25px;
+}
+

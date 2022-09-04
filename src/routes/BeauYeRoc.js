@@ -1,5 +1,6 @@
 import React from 'react';
 import App from '../App';
+import Footer from '../Footer';
 
 function BeauYeRoc() {
     return (
@@ -94,7 +95,7 @@ function BeauYeRoc() {
                     </div>
                 </li>
             </ul>
-        </div>
+        </div><Footer/>
         </div>
     )
 }

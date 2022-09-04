@@ -15,7 +15,7 @@ function Event(props) {
 
 export default function Events() {
     return (
-        <div>
+        <div id="events">
             <h3>events + exhibitions</h3>
             <Event />
         </div>

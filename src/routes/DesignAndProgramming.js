@@ -1,5 +1,6 @@
 import App from '../App';
 import React from 'react';
+import Footer from '../Footer';
 
 const designs = {
     logos: {
@@ -48,6 +49,7 @@ function DesignAndProgramming() {
                     <li><a href="https://cdsherrardjr.myportfolio.com" target="_blank" rel="noopener noreferrer">adobe portfolio</a> for design/layout portfolio</li>
                 </ul>
             </div>
+            <Footer />
         </div>
     )
 }

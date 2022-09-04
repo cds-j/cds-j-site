@@ -24,37 +24,37 @@ function CV() {
             <div class="cv">
                 <h2>Education</h2>
                 <p>
-                    2021 - n/a, Codecademy, <i>Certification, Full-Stack Engineer</i><br/>
-                    2020, University of Houston, <i>BS, Digital Media</i>
+                    2021 - n/a, <b>Codecademy</b>, <i>Certification, Full-Stack Engineer</i><br/>
+                    2020, <b>University of Houston</b>, <i>BS, Digital Media</i>
                 </p>
             </div>
             <div class="cv">
                 <h2>Experience</h2>
                 
                 <p>
-                    2022, <i>Graphic Designer @ Campaign for NY State Assembly District 60 Candidate</i><br/>
+                    2022, <b>Graphic Designer @ Campaign for NY State Assembly District 60 Candidate</b><br/>
                     Contributed to design efforts with DSA members. Produced brand guidelines for visual
                     components and deliverables. Maintaining constant communication and feedback between
                     NY-based volunteers.
                 </p>
                 <p>
-                    2017 - 2020, <i>First Chair Studio Engineer @ Hamill Foundation Multimedia Studio</i><br/>
+                    2017 - 2020, <b>First Chair Studio Engineer @ Hamill Foundation Multimedia Studio</b><br/>
                     Mixed and mastered quality recordings for students, professors, and visiting patrons.
                     Applied Lean Sigma Six to studio processes to eliminate booking and session bottlenecks.
                     Promoted to First Chair Studio Engineer.
                 </p>
                 <p>
-                    2018, <i>Graphic Design Internship @ Jack J Valenti School of Communications</i><br/>
+                    2018, <b>Graphic Design Internship @ Jack J Valenti School of Communications</b><br/>
                     Led brand decisions to generate effective deliverables for 2018 Valenti Awards. Kept
                     communication with the team through exchanging files and important information.
                 </p>
                 <p>
-                    2014 - 2018, <i>Radio Show Host/Co-host @ Coog Radio</i><br/>
+                    2014 - 2018, <b>Radio Show Host/Co-host @ Coog Radio</b><br/>
                     Managed in-depth conversations with show guests. Operated live audio equipment while
                     observing station rules and regulations.
                 </p>
                 <p>
-                    2014 - n/a, <i>Graphic Design Freelancer</i><br/>
+                    2014 - n/a, <b>Graphic Design Freelancer</b><br/>
                     Designing effective logos, fliers, and deliverables for clients nationwide. 
                     Cultivating and maintaining long-term client relationships.
                 </p>

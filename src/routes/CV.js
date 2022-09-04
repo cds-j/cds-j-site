@@ -30,15 +30,18 @@ function CV() {
             </div>
             <div class="cv">
                 <h2>Experience</h2>
-                <p>
-                    2014 - n/a, <i>Graphic Design Freelancer</i><br/>
-                    Designing effective logos, fliers, and deliverables for clients nationwide. Cultivating and maintaining long-term client relationships.
-                </p>
+                
                 <p>
                     2022, <i>Graphic Designer @ Campaign for NY State Assembly District 60 Candidate</i><br/>
                     Contributed to design efforts with DSA members. Produced brand guidelines for visual
                     components and deliverables. Maintaining constant communication and feedback between
                     NY-based volunteers.
+                </p>
+                <p>
+                    2017 - 2020, <i>First Chair Studio Engineer @ Hamill Foundation Multimedia Studio</i><br/>
+                    Mixed and mastered quality recordings for students, professors, and visiting patrons.
+                    Applied Lean Sigma Six to studio processes to eliminate booking and session bottlenecks.
+                    Promoted to First Chair Studio Engineer.
                 </p>
                 <p>
                     2018, <i>Graphic Design Internship @ Jack J Valenti School of Communications</i><br/>
@@ -49,6 +52,11 @@ function CV() {
                     2014 - 2018, <i>Radio Show Host/Co-host @ Coog Radio</i><br/>
                     Managed in-depth conversations with show guests. Operated live audio equipment while
                     observing station rules and regulations.
+                </p>
+                <p>
+                    2014 - n/a, <i>Graphic Design Freelancer</i><br/>
+                    Designing effective logos, fliers, and deliverables for clients nationwide. 
+                    Cultivating and maintaining long-term client relationships.
                 </p>
             </div>
             <div class="cv">

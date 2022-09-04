@@ -1,13 +1,249 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  margin: 50px;
+  background-color: white;
+  background-size: cover;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Helvetica, sans-serif;
+  letter-spacing: -0.5pt;
+}
+
+h1, h2 {
+  font-size: 14pt;
+}
+
+h3 {
+  font-size: 32pt;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin: 10px 0px;
+}
+
+h5 {
+  color: blue;
+  margin-bottom: 10px;
+}
+
+/* (A) FIXED WRAPPER */
+.hwrap {
+  overflow: hidden; /* HIDE SCROLL BAR */
+  background-color: blue;
+  margin: 40px 0px;
+}
+ 
+/* (B) MOVING TICKER WRAPPER */
+.hmove { display: flex; }
+
+/* (C) ITEMS - INTO A LONG HORIZONTAL ROW */
+.hitem {
+  font-family: "Inconsolata", monospace;
+  letter-spacing: -1pt;
+  color: white;
+  flex-shrink: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+}
+ 
+/* (D) ANIMATION - MOVE ITEMS FROM RIGHT TO LEFT */
+/* 4 ITEMS -400%, CHANGE THIS IF YOU ADD/REMOVE ITEMS */
+@keyframes tickerh {
+  0% { transform: translate3d(100%, 0, 0); }
+  100% { transform: translate3d(-600%, 0, 0); }
+}
+.hmove { animation: tickerh linear 45s infinite; }
+.hmove:hover { animation-play-state: paused; }
+
+#alert {
+  font-size: 32pt;
+}
+
+#navbar ul {
+  display: flex;
+  flex-direction: column;
+}
+
+#navbar li {
+  color: blue;
+  border-bottom: 1px solid blue;
+  line-height: 0.5em;
+}
+
+p, li, a {
+  font-family: "Inconsolata", monospace;
+  font-size: 14pt;
+  letter-spacing: -0.6pt;
+}
+
+ul {
+  max-width: 900px;
+}
+
+li {
+  list-style: none;
+  line-height: 1em;
+  padding: 10px 0px 10px 0px;
+  border-bottom: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  color:green;
+}
+
+.section {
+  margin-top: 40px;
+}
+
+.bandcamp-embed {
+  border: 0; 
+  width: 250px; 
+  height: 250px;
+}
+
+footer {
+  margin: 100px 0px;
+  color: blue;
+}
+
+footer p, footer a {
+  font-size: 10pt;
+}
+
+footer a {
+  text-decoration: underline;
+}
+
+
+
+
+#beau-ye-roc li {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0px;
+}
+
+#beau-ye-roc iframe {
+  margin-bottom: 15px;
+}
+
+.album-description {
+  margin-left: 40px;
+}
+
+
+
+
+
+#about-myself p {
+  max-width: 900px;
+  margin: 20px 0px;
+}
+
+
+#navbar .not-ready {
+  color: gray;
+}
+
+
+#design-and-programming {
+  max-width: 900px;
+}
+
+#design-links {
+  margin: 20px 0px;
+}
+
+.design-flex {
+  display: flex;
+  flex-direction: row;
+  align-items:baseline
+}
+
+.design-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 10px 10px;
+}
+
+.design-box p {
+  margin: 15px 0px;
+  font-size: 10pt;
+  color: blue;
+  max-width: 300px;
+}
+
+.design-image {
+  height: 300px;
+  width: auto;
+}
+
+.scroll-label {
+  font-size: 10pt;
+  margin-top: 20px;
+  color: blue;
+}
+
+
+
+@media (max-width: 400px) {
+  body {
+    margin: 20px;
+  }
+
+  p, li, a {
+    font-size: 12pt;
+  }
+
+  header p {
+    font-size: 12pt;
+  }
+
+  h1, h2 {
+    font-size: 12pt;
+  }
+
+  h3 {
+    font-size: 20pt;
+    line-height: 1em;
+  }
+
+  footer p, footer a {
+    font-size: 12pt;
+  }
+
+  .hitem {
+    font-size: 10pt;
+  }
+
+
+
+  #beau-ye-roc li {
+    flex-direction: column;
+  }
+
+  .album-description {
+    margin: 20px 0px;
+  }
 }

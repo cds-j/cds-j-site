@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+
+import Header from './Header';
+import Ticker from './Ticker';
+import Events from './Events';
+
+import { Link } from "react-router-dom";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div>
+            <Header />
+            <nav id="navbar">
+                <ul>
+                    <li><Link to="/design-and-programming">design + programming</Link></li>
+                    <li><Link to="/beau-ye-roc">beau yé roc</Link></li>
+                    <li class="not-ready">roy haes</li>
+                    <li><a href="https://forumcache.xyz" target="_blank" rel="noopener noreferrer">forum cache®</a></li>
+                    <li><Link to="/about-myself">about myself</Link></li>
+                </ul>
+            </nav>
+            <Ticker />
+            <Events />
+        </div> 
+    )
 }
+
 
 export default App;

@@ -1,0 +1,14 @@
+header {
+  padding: 5px;
+  border: 2px solid black;
+  width: 100%;
+}
+
+nav ul {
+  margin: 20px 0px;
+}
+
+nav li {
+  list-style: none;
+  color: black;
+}

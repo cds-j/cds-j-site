@@ -20,7 +20,7 @@ function AboutMe() {
         <p>
           I'm always looking for ways to expand my skillset and build my experiences. If there are
           any projects you'd like to share with me or collaborate on, feel free to contact me through
-          any of the methods available in the 
+          any of the methods available in the footer.
         </p>
       </div>
     </div>

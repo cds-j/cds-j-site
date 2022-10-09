@@ -101,12 +101,10 @@ footer {
 
   nav ul {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
   }
 
   nav li {
-    line-height: 0;
     margin-right: 20px;
   }
 }

@@ -58,7 +58,8 @@ a:active {
 
 .component h2, 
 .component p,
-.component div {
+.component div,
+.component h4 {
   margin-bottom: 30px;
 }
 
@@ -86,6 +87,27 @@ a:active {
   margin-right: 20px;
 }
 
+#art img {
+  width: 100%;
+  margin: 10px 0px;
+}
+
+#works-at-work-pieces {
+  margin: 20px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.works-at-work-piece {
+  margin: 0px 10px;
+}
+
+#works-at-work-pieces img {
+  height: 250px;
+  width: auto;
+}
+
 footer {
   margin-top: 30px;
 }
@@ -105,6 +127,6 @@ footer {
   }
 
   nav li {
-    margin-right: 20px;
+    margin-right: 10px;
   }
 }

@@ -6,8 +6,9 @@ function Nav() {
     <div>
       <nav id="navbar">
         <ul>
-          <li><Link to="/">home</Link></li>  
-          <li><Link to="/programming">programming</Link></li> 
+          <li><Link to="/">home</Link></li>
+          <li><Link to="/art">art</Link></li>  
+          <li><Link to="/programming">programming</Link></li>
           <li><Link to="/beau-ye-roc">beau yé roc</Link></li>
           <li><a href="https://forumcache.xyz" target="_blank" rel="noopener noreferrer">forum cache®</a></li>
           <li><Link to="/about-me">about me</Link></li>
@@ -25,6 +26,15 @@ function Header() {
         <h2>interdisciplinary artist</h2>
       </header>
       <Nav/>
+      <p>
+        <b>***Message***</b>
+      </p>
+      <p>
+        <b>18 November 2022</b>, Beat Circuit XL presented by StarkNova @ The Shamrock
+      </p>
+      <p>
+        <b>7 January 2023</b>, "Songbook for Black Constellations" @ Sanman Studios
+      </p>
     </div>
   )
 }

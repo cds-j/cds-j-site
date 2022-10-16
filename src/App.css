@@ -90,6 +90,7 @@ a:active {
 #art img {
   width: 100%;
   margin: 10px 0px;
+  border: 2px solid black;
 }
 
 #works-at-work-pieces {
@@ -104,6 +105,7 @@ a:active {
 }
 
 #works-at-work-pieces img {
+  border: 2px solid black;
   height: 250px;
   width: auto;
 }
@@ -128,5 +130,9 @@ footer {
 
   nav li {
     margin-right: 10px;
+  }
+
+  #works-at-work-pieces img {
+    height: 200px;
   }
 }

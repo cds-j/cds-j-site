@@ -8,7 +8,7 @@ function Art() {
         <h3>Works @ Work, 2021</h3>
         <h4>
           <i>16 pieces (6 x 4 in.); collage, marker, pen, tape, acrylic marker.</i><br/> 
-          drawn, torn, and collaged during several nightshifts
+          Drawn, torn, and collaged during several nightshifts
           at a warehouse near George Bush Intercontinental Airport. 
         </h4>
         <div id="works-at-work-pieces">

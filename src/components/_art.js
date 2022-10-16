@@ -14,67 +14,67 @@ function Art() {
         <div id="works-at-work-pieces">
           <div>
             <img src="works-at-work/No 1.png" />
-            <p>No. 1, 13 May 2021</p>
+            <p>No. 1<br/> 13 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 2.png" />
-            <p>No. 2, 14 May 2021</p>
+            <p>No. 2<br/> 14 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 3.png" />
-            <p>No. 3, 15 May 2021</p>
+            <p>No. 3<br/> 15 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 4.png" />
-            <p>No. 4, 20 May 2021</p>
+            <p>No. 4<br/> 20 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 5.png" />
-            <p>No. 5, 21 May 2021</p>
+            <p>No. 5<br/> 21 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 6.png" />
-            <p>No. 6, 22 May 2021</p>
+            <p>No. 6<br/> 22 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 7.png" />
-            <p>No. 7, 25 May 2021</p>
+            <p>No. 7<br/> 25 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 8.png" />
-            <p>No. 8, 26 May 2021</p>
+            <p>No. 8<br/> 26 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 9.png" />
-            <p>No. 9, 26 May 2021</p>
+            <p>No. 9<br/> 26 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 10.png" />
-            <p>No. 10, 27 May 2021</p>
+            <p>No. 10<br/> 27 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 11.png" />
-            <p>No. 11, 27 May 2021</p>
+            <p>No. 11<br/> 27 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 12.png" />
-            <p>No. 12, 28 May 2021</p>
+            <p>No. 12<br/> 28 May 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 13.png" />
-            <p>No. 13, 1 June 2021</p>
+            <p>No. 13<br/> 1 June 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 14.png" />
-            <p>No. 14, 2 June 2021</p>
+            <p>No. 14<br/> 2 June 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 15.png" />
-            <p>No. 15, 3 June 2021</p>
+            <p>No. 15<br/> 3 June 2021</p>
           </div>
           <div>
             <img src="works-at-work/No 16.png" />
-            <p>No. 16, *unknown date*</p>
+            <p>No. 16<br/> *unknown date*</p>
           </div>
         </div>
       </div>

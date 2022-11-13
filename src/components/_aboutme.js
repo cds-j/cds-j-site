@@ -7,7 +7,7 @@ function AboutMe() {
         <h3>education</h3>
         <p>
           BS, Digital Media from <a href="https://www.uh.edu" target="_blank" rel="noreferrer"><b>University of Houston</b></a><br/>
-          Certification, Front-End Web Development <b>(self-taught, ongoing)</b>
+          Certification, Front-End Web Development from <a href="https://www.codecademy.com" target="_blank" rel="noreferrer"><b>Codecademy</b></a>
         </p>
         <h3>current work</h3>
         <p>
@@ -18,9 +18,9 @@ function AboutMe() {
         </p>
         <h3>previous experience</h3>
         <p>
-          2022, Graphic Designer, <a href="https://www.keronfornewyork.com/" target="_blank" rel="noreferrer"><b>KERON FOR NEW YORK</b></a> (Campaign for New York State Assembly District 60)<br/>
-          2017-2020, (First Chair) Studio Engineer, <a href="https://libraries.uh.edu/spaces-tech/multimedia-studio/" target="_blank" rel="noreferrer"><b>Hamill Foundation Multimedia Studio</b></a><br/>
-          2014-2018, Radio Host + Co-host, <a href="https://coogradio.com/" target="_blank" rel="noreferrer"><b>Coog Radio</b></a>
+          <i>2022</i>, Graphic Designer, <a href="https://www.keronfornewyork.com/" target="_blank" rel="noreferrer"><b>KERON FOR NEW YORK</b></a> (Campaign for New York State Assembly District 60)<br/>
+          <i>2017-2020</i>, (First Chair) Studio Engineer, <a href="https://libraries.uh.edu/spaces-tech/multimedia-studio/" target="_blank" rel="noreferrer"><b>Hamill Foundation Multimedia Studio</b></a><br/>
+          <i>2014-2018</i>, Radio Host + Co-host, <a href="https://coogradio.com/" target="_blank" rel="noreferrer"><b>Coog Radio</b></a>
         </p>
         <p>
           Art has my life and music has my heart. Exploring both through design, digital/analog 

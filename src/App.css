@@ -48,10 +48,10 @@ li {
 
 a {
   color: black;
+  transition: background-color 150ms ease;
 }
 
-a:hover, 
-a:active {
+a:hover {
   background-color: black;
   color: white;
 }

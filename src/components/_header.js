@@ -7,7 +7,6 @@ function Nav() {
       <nav id="navbar">
         <ul>
           <li><Link to="/">home</Link></li>
-          <li><Link to="/design">design</Link></li>
           <li><Link to="/art">art</Link></li>  
           <li><Link to="/programming">programming</Link></li>
           <li><Link to="/beau-ye-roc">beau yé roc</Link></li>

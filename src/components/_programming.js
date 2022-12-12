@@ -17,7 +17,7 @@ function Programming() {
         <div class="programming-project">
           <img src="forumfav.png" alt="world with seven stars inside" />
           <div>
-            <h3>Forum Cache®, entity</h3>
+            <h3>forum cache website</h3>
             <h4>made with HTML, CSS, JavaScript, Next.js, Git, and Vercel</h4>
             <a href="https://forumcache.xyz" target="_blank" rel="noreferrer">click here to visit</a>
           </div>

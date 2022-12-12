@@ -11,9 +11,10 @@ function AboutMe() {
         </p>
         <h3>current work</h3>
         <p>
+          Teacher, <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>Kinder Houston School for the Performing & Visual Arts</b></a><br/>
           Graphic Designer, <a href="https://www.minaretrecords.com" target="_blank" rel="noreferrer"><b>Minaret Records</b></a><br/>
           DJ, <a href="https://ktru.org" target="_blank" rel="noreferrer"><b>KTRU 96.1</b></a><br/>
-          Founder, <a href="https://forumcache.xyz" target="_blank" rel="noreferrer"><b>Forum Cache®</b></a> + <b>reserve®</b> jazz publication<br/>
+          Founder, <a href="https://forumcache.xyz" target="_blank" rel="noreferrer"><b>forum cache</b></a> + <b>reserve®</b> jazz publication<br/>
           Part-Owner + Studio Engineer, <b>Pipeline Engineering</b>
         </p>
         <h3>previous experience</h3>

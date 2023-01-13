@@ -2,8 +2,14 @@ function AboutMe() {
   return (
     <div id="#about-me" className="component">
       <h1>about me</h1>
+      <h2>corey de&apos;juan sherrard jr</h2>
       <div>
-        <h2>musician + artist + designer + programmer + writer</h2>
+        <p>
+          Corey De'Juan Sherrard Jr, b. 1996, is a Houston-based interdisciplinary artist and engineer developing systems for composing music and cultural objects. 
+          He stretches between several mediums including music, painting, and literature to connect world data with artmaking as political propaganda.
+          Since 2020, Corey has released records under the alias <b>Beau yé Roc</b> after having produced several mixtapes and projects since 2014 under other names. In 2022, he began work
+          on an on-going multimedia publication experiment called <b>forum cache</b> and began production on the jazz•art•political publication <b>reserve®</b>.
+        </p>
         <h3>education</h3>
         <p>
           BS, Digital Media from <a href="https://www.uh.edu" target="_blank" rel="noreferrer"><b>University of Houston</b></a><br/>
@@ -11,9 +17,9 @@ function AboutMe() {
         </p>
         <h3>current work</h3>
         <p>
-          Teacher, <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>Kinder Houston School for the Performing & Visual Arts</b></a><br/>
+          Lecturer, <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>Kinder Houston School for the Performing & Visual Arts</b></a><br/>
           Graphic Designer, <a href="https://www.minaretrecords.com" target="_blank" rel="noreferrer"><b>Minaret Records</b></a><br/>
-          DJ, <a href="https://ktru.org" target="_blank" rel="noreferrer"><b>KTRU 96.1</b></a><br/>
+          DJ, Gran Blooming @ <a href="https://ktru.org" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1FM</b></a><br/>
           Founder, <a href="https://forumcache.xyz" target="_blank" rel="noreferrer"><b>forum cache</b></a> + <b>reserve®</b> jazz publication<br/>
           Part-Owner + Studio Engineer, <b>Pipeline Engineering</b>
         </p>
@@ -24,22 +30,14 @@ function AboutMe() {
           <i>2014-2018</i>, Radio Host + Co-host, <a href="https://coogradio.com/" target="_blank" rel="noreferrer"><b>Coog Radio</b></a>
         </p>
         <p>
-          Art has my life and music has my heart. Exploring both through design, digital/analog 
-          technology, and language has been my focus since the mid-2010s. I'm interested in iterating/reiterating 
-          new systems for sustainable living, developing independent, self-sufficient black cultural 
-          institutions, and funding/contributing to decolonization projects. The improvisational nature of 
-          Jazz has influenced the methods in which I approach making. 
-        </p>
-        <p>
-          Thus far, I've learned front-end web technologies (HTML + CSS + JavaScript + React), industry-standard 
-          design software (Adobe Creative Suite + Figma), and DAWs (Ableton Live + ProTools) I'm currently 
-          learning p5.js to incorporate creative code into my art/design practice. When I'm not building up my toolkit
-          for making things, I play tenor saxophone and trumpet.
-        </p>
-        <p>
           Thanks for visiting! I'll have an updated resume available here soon, but in the meantime, feel free to email me 
-          at <b>cdsherrardjr@gmail.com</b>, dm me on instagram at <a href="https://www.instagram.com/cds__j" target="_blank" rel="noreferrer"><b>@cds__j</b></a> or
-          message me on linkedin <a href="https://www.linkedin.com/in/corey-d-sherrard-jr-959b6b142/" target="_blank" rel="noreferrer"><b>here</b></a>.
+          at <b>cdsherrardjr@gmail.com</b> or dm me on instagram at <a href="https://www.instagram.com/cds__j" target="_blank" rel="noreferrer"><b>@cds__j</b></a>.
+        </p>
+        <h3>press</h3>
+        <p>
+          <i>2020</i>, <a href="https://djbooth.net/features/2020-04-20-lo-fi-rap-snack-pack-week-nine-new-music" target="_blank" rel="noreferrer"><b>DJ Booth</b> (for production)</a><br/>
+          <i>2016</i>, <a href="https://www.houstonpress.com/music/maxo-kream-and-the-art-of-keeping-it-too-real-8892263" target="_blank" rel="noreferrer"><b>Houston Press</b></a> (as <i>Sahmbeau</i> for production)<br/>
+          <i>2016</i>, <a href="https://www.beyeah.net/musique/hip-hop/javon-johnson-album-windows/" target="_blank" rel="noreferrer"><b>Beyeah</b></a> (as <i>Sahmbeau</i> for production)<br/>
         </p>
       </div>
     </div>

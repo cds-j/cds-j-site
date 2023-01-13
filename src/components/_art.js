@@ -4,6 +4,9 @@ function Art() {
       <h1>art</h1>
       <h2>visual and auditory works</h2>
       <div>
+        
+      </div>
+      <div>
         <img src="IMG_1151.JPG" alt="All 16 pieces from Works from Work series" />
         <h3>Works @ Work, 2021</h3>
         <h4>

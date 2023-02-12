@@ -4,7 +4,11 @@ function Art() {
       <h1>art</h1>
       <h2>visual and auditory works</h2>
       <div>
-        
+        <img src="sfbc_at_sanman.jpg" alt="Pieces from Songbook for Black Constellations on walls" />
+        <h3>Songbook for Black Constellations, 2023</h3>
+        <h4>
+          <i>6 pieces (24 x 36 in. [5], 36 x 36 in. [1])</i><br/>
+        </h4>
       </div>
       <div>
         <img src="IMG_1151.JPG" alt="All 16 pieces from Works from Work series" />

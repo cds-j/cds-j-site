@@ -102,10 +102,10 @@ function Design() {
               <a href="design work for portfolio/Keron palm card final.pdf" target="_blank" rel="noreferrer">Link to palm card</a><br/>
               <a href="https://www.keronfornewyork.com/" target="_blank" rel="noreferrer">Link to site</a>
             </div>
-            <img src="design work for portfolio/keron logo stacked.png" alt="Logo for Keron Alleyne"></img>
+            <img src="design work for portfolio/Keron logo stacked.png" alt="Logo for Keron Alleyne"></img>
           </div>
           <div className="design-project">
-            <img src="design work for portfolio/keron logo long.png" alt="Logo for Keron Alleyne"></img>
+            <img src="design work for portfolio/Keron logo long.png" alt="Logo for Keron Alleyne"></img>
           </div>
           <hr/>
 

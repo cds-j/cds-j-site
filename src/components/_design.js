@@ -7,6 +7,26 @@ function Design() {
         <div id="design-project-grid">
           <div className="design-project">
             <div>
+              <h3>2023<br/>Ad for <i>Gran Blooming</i> radio show</h3>
+              <p>
+                <i>Adobe After Effects</i> • This was some promotional material for my radio
+                show arranged and exported with a quick turnaround. 
+              </p>
+            </div>
+            <iframe 
+              width="560" 
+              height="560" 
+              src="https://www.youtube.com/embed/PoMTOwcQoLg" 
+              title="gran blooming ★ ad one" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen>
+            </iframe>
+          </div>
+          <hr/>
+
+          <div className="design-project">
+            <div>
               <h3>2023<br/>Flier for Alexis Pye's <i>You Really Livin</i> art show</h3>
               <p>
                 <i>Adobe Illustrator</i> • This flier was a quick turnaround because 
@@ -111,37 +131,28 @@ function Design() {
 
           <div className="design-project">
             <div>
-              <h3>2019 - 2020<br/>Ads for Beau yé Roc's <i>world art pt. i</i> album</h3>
+              <h3>2021<br/>Flier for Alexis Pye's <i>The Real & The Fantastic, The Irrational Joys of the Axis</i> art show</h3>
               <p>
-                <i>Adobe After Effects</i> • These ads were for an album I put out right before the pandemic hit.
-                The background video behind the text are from the inspirations that led to the production of this project; Jazz
-                and modern art.
+                <i>Adobe Photoshop, copier</i> • Flier for painter Alexis Pye's solo show at Inman Gallery
+                in Houston, Texas. Scanned foliage and cutouts of different images from her studio space.
               </p>
             </div>
-            <video width="500" height="500" controls>
-              <source src="design work for portfolio/worldartpti_ad.mp4" type="video/mp4" />
-            </video>
+            <img src="design work for portfolio/flier for art show.png" alt="Flier for an art show"></img>
           </div>
+          <hr/>
+
           <div className="design-project">
-            <video width="500" height="500" controls>
-              <source src="design work for portfolio/worldartpti_ad2.mp4" type="video/mp4" />
-            </video>
+            <div>
+              <h3>2018<br/>Album cover for <i>Low End Dirt, Jazz & Bass</i> project</h3>
+              <p>
+                <i>Adobe Photoshop, craft materials</i> • This was an album cover crafted
+                by hand using canvas, acrylic paint, paint marker, pen, pencil, etc.
+              </p>
+            </div>
+            <img src="design work for portfolio/LEDJAB-Cover.png" alt="Colorful album cover made with craft materials"></img>
           </div>
-          <div className="design-project">
-            <video width="500" height="500" controls>
-              <source src="design work for portfolio/worldartpti_ad3.mp4" type="video/mp4" />
-            </video>
-          </div>
-          <div className="design-project">
-            <video width="500" height="500" controls>
-              <source src="design work for portfolio/worldartpti_ad4.mp4" type="video/mp4" />
-            </video>
-          </div>
-          <div className="design-project">
-            <video width="500" height="500" controls>
-              <source src="design work for portfolio/worldartpti_ad5.mp4" type="video/mp4" />
-            </video>
-          </div>
+          <hr/>
+
         </div>
       </div>
     </div>

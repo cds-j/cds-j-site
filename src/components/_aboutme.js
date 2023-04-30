@@ -31,7 +31,7 @@ function AboutMe() {
           <i>2014-2018</i>, Radio Host + Co-host, <a href="https://coogradio.com/" target="_blank" rel="noreferrer"><b>Coog Radio</b></a>
         </p>
         <p>
-          → <a href="https://drive.google.com/file/d/1-isOEdox-dHa1E4p2rU00KIdEx6oEJCe/view?usp=sharing" target="_blank" rel="noreferrer"><b>Resume</b></a>
+          → <a href="https://drive.google.com/file/d/1SLjjDkJYnZRlRHtL-6mDGxE1ATFnVYBz/view?usp=sharing" target="_blank" rel="noreferrer"><b>Resume</b></a>
         </p>
       </div>
     </div>

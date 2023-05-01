@@ -11,7 +11,7 @@ function Nav() {
           <li><Link to="/design">design</Link></li>
           <li><Link to="/programming">programming</Link></li>
           <li><Link to="/beau-ye-roc">beau yé roc</Link></li>
-          <li><a href="https://forumcache.xyz" target="_blank" rel="noopener noreferrer">forum cache</a></li>
+          <li className="underconstruction">forum cache [wip]</li>
           <li><Link to="/about-me">about me</Link></li>
         </ul>
       </nav>

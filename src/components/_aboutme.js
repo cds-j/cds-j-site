@@ -10,25 +10,34 @@ function AboutMe() {
           exploring different mediums/materials for design and artmaking. He graduated from the <a href="https://www.uh.edu" target="_blank" rel="noreferrer"><b>University of Houston</b></a> with a BS in Digital Media 
           and currently consults at the <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>High School for Performing and Visual Arts</b></a> in 
           Downtown Houston. Sherrard showed his solo exhibition <i>Songbook for Black Constellations</i> at <a href="https://www.sanman.company/" target="_blank" rel="noreferrer"><b>Sanman Studios</b></a> in 2023. 
-          He spins jazz at <a href="https://ktru.org/" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1 FM</b></a> and occasionally produces design work for 
-          Los Angeles-based jazz label <a href="https://www.minaretrecords.com/" target="_blank" rel="noreferrer"><b>Minaret Records</b></a>.
+          He also spins jazz at <a href="https://ktru.org/" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1 FM</b></a>.
         </p>
-        <h3>education</h3>
+        <h3>solo exhibitions</h3>
         <p>
-          <i>2020</i>, BS, Digital Media from <a href="https://www.uh.edu" target="_blank" rel="noreferrer"><b>University of Houston</b></a>
+          <b>2023, <i>Songbook for Black Constellations, for Trio</i></b><br/>
+          Jones Artist Award; Houston Endownment + Weingarten Art Group, Houston, Texas
         </p>
-        <h3>current work</h3>
+
         <p>
-          Lecturer, <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>Kinder Houston School for the Performing & Visual Arts</b></a><br/>
-          Graphic Designer, <a href="https://www.minaretrecords.com" target="_blank" rel="noreferrer"><b>Minaret Records</b></a><br/>
-          DJ, Gran Blooming @ <a href="https://ktru.org" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1FM</b></a><br/>
-          Founder, <a href="https://forumcache.xyz" target="_blank" rel="noreferrer"><b>forum cache</b></a> + <b>reserve®</b> jazz publication<br/>
+          <b>2023, <i>Songbook for Black Constellations</i></b><br/>
+          Sabine Street Studios, curated by William Baldwin, Houston, Texas<br/>
+          Sanman Studios, Houston, Texas
         </p>
-        <h3>previous experience</h3>
+
+        <h3>discography</h3>
         <p>
-          <i>2022</i>, Graphic Designer, <a href="https://www.keronfornewyork.com/" target="_blank" rel="noreferrer"><b>KERON FOR NEW YORK</b></a> (Campaign for New York State Assembly District 60)<br/>
-          <i>2017-2020</i>, (First Chair) Studio Engineer, <a href="https://libraries.uh.edu/spaces-tech/multimedia-studio/" target="_blank" rel="noreferrer"><b>Hamill Foundation Multimedia Studio</b></a><br/>
-          <i>2014-2018</i>, Radio Host + Co-host, <a href="https://coogradio.com/" target="_blank" rel="noreferrer"><b>Coog Radio</b></a>
+          <b>2023, <i>septiême édition</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2023, <i>songbook for black constellations</i></b> [as self]<br/>
+          <b>2022, <i>expressions</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2022, <i>world encyclopedia, x</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
+          <b>2022, <i>international black labor strike</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2021, <i>moorish lingo, ii (linguistics for points of pressure)</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
+          <b>2021, <i>new afrika, '21</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2021, <i>moorish lingo (world selects for linguistics)</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
+          <b>2021, <i>staff picks (new world anthology)</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2021, <i>world literature for mutual aid</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2020, <i>new world series</i></b> [as <i>beau yé roc</i>]<br/>
+          <b>2020, <i>world art, pt. i</i></b> [as <i>beau yé roc</i>]<br/>
         </p>
         <p>
           → <a href="https://drive.google.com/file/d/1SLjjDkJYnZRlRHtL-6mDGxE1ATFnVYBz/view?usp=sharing" target="_blank" rel="noreferrer"><b>Resume</b></a>

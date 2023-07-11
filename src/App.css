@@ -90,6 +90,10 @@ nav .underconstruction {
   margin-right: 20px;
 }
 
+#art .exhibitions-div p {
+  margin-bottom: 0px;
+}
+
 #art img {
   width: 100%;
   margin: 10px 0px;

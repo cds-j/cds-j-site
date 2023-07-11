@@ -151,7 +151,6 @@ function Design() {
             <img src="design work for portfolio/LEDJAB-Cover.png" alt="Colorful album cover made with craft materials"></img>
           </div>
           <hr/>
-
         </div>
       </div>
     </div>

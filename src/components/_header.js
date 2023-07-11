@@ -6,13 +6,13 @@ function Nav() {
     <div>
       <nav id="navbar">
         <ul>
-          <li><Link to="/">home</Link></li>
           <li><Link to="/art">art</Link></li>
           <li><Link to="/design">design</Link></li>
           <li><Link to="/programming">programming</Link></li>
-          <li><Link to="/beau-ye-roc">beau yé roc</Link></li>
-          <li className="underconstruction">forum cache [wip]</li>
           <li><Link to="/about-me">about me</Link></li>
+        </ul>
+        <ul>
+          <li><a href="http://www.instagram.com/tdobp" target="_blank" rel="noreferrer"><i>t.d.o.b.p.</i></a></li>
         </ul>
       </nav>
     </div>
@@ -24,7 +24,7 @@ function Header() {
     <div>
       <header>
         <h1>corey de'juan sherrard jr</h1>
-        <h2>interdisciplinary artist</h2>
+        <h2>artist + engineer</h2>
       </header>
       <Nav/>
     </div>

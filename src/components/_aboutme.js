@@ -23,22 +23,6 @@ function AboutMe() {
           Sabine Street Studios, curated by William Baldwin, Houston, Texas<br/>
           Sanman Studios, Houston, Texas
         </p>
-
-        <h3>discography</h3>
-        <p>
-          <b>2023, <i>septiême édition</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2023, <i>songbook for black constellations</i></b> [as self]<br/>
-          <b>2022, <i>expressions</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2022, <i>world encyclopedia, x</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
-          <b>2022, <i>international black labor strike</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2021, <i>moorish lingo, ii (linguistics for points of pressure)</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
-          <b>2021, <i>new afrika, '21</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2021, <i>moorish lingo (world selects for linguistics)</i></b> [as <i>beau yé roc</i>] *unreleased*<br/>
-          <b>2021, <i>staff picks (new world anthology)</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2021, <i>world literature for mutual aid</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2020, <i>new world series</i></b> [as <i>beau yé roc</i>]<br/>
-          <b>2020, <i>world art, pt. i</i></b> [as <i>beau yé roc</i>]<br/>
-        </p>
         <p>
           → <a href="https://drive.google.com/file/d/1SLjjDkJYnZRlRHtL-6mDGxE1ATFnVYBz/view?usp=sharing" target="_blank" rel="noreferrer"><b>Resume</b></a>
         </p>

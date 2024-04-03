@@ -6,6 +6,12 @@ function Art() {
       <p>* <i>[photo taken by <a href="https://www.instagram.com/visibleinlight/?hl=en">Alex Barber</a>]</i> </p>
       
       <div>
+        <img src="HEI_230728_07.jpg" alt="Songbook for Black Constellations, for Trio" /><br/>
+        <img src="HEI_230728_20.jpg" alt="Songbook for Black Constellations, for Trio alt" /><br/>
+        <img src="HEI_230728_16.jpg" alt="Songbook for Black Constellations, for Trio second alt 2" /><br/>
+        <h3>Songbook for Black Constellations, for Trio</h3>
+        <h4><i>2023</i>, acrylic, chalk, house paint, pencil on wood panel</h4>
+
         <img src="030-AR5_7563.jpg" alt="Heirloom I, for Jazz" />
         <h3>Heirloom I, for Jazz</h3>
         <h4><i>2023</i>, cassette</h4>
@@ -23,7 +29,7 @@ function Art() {
         <h4><i>2022</i>, acrylic, ink, pencil on wood panel*</h4>
 
         <img src="012-5DSR0420.jpg" alt="Constellation for Black Meccas in Amerikkka[?]" />
-        <h3>Constellation for Black Meccas in Amerikkka[?]</h3>
+        <h3>Constellation for Black Meccas in Amerikkka[?] <span className="sold">SOLD</span></h3>
         <h4><i>2022</i>, acrylic, ink, pencil on wood panel*</h4>
 
         <img src="013-5DSR0422.jpg" alt="Theme I, for Negro League Baseball" />

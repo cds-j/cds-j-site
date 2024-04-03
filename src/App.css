@@ -100,6 +100,10 @@ nav .underconstruction {
   border: 2px solid black;
 }
 
+#art .sold {
+  color: red;
+}
+
 #works-at-work-pieces {
   margin: 20px 0px;
   display: flex;

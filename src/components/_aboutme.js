@@ -30,8 +30,13 @@ function AboutMe() {
         
         <h3>group exhibitions</h3>
         <p>
+          <b>Small Black Museum Vol. 3</b><br/>
+          George Washington Carver Museum and Cultural Center<br/>
+          May 16 - October 12, 2024
+        </p>
+        <p>
           <b>Crossroads: Eastward Imprints - Houston Artists in Austin</b><br/>
-          East Austin Studio Tours<br/>
+          East Austin Studio Tours (Curated by Jonathan Paul Jackson)<br/>
           November 4 - November 19, 2023
         </p>
         <p>

@@ -5,6 +5,26 @@ function Art() {
       <h2>selected pieces from interdisciplinary practice</h2>
       
       <div>
+        <img src="DSC08454.jpeg" alt="Saxophone Study #5"/><br/>
+        <h3>Saxophone Study #5</h3>
+        <h4><i>2024</i>, air-dry clay</h4>
+
+        <img src="DSC08480.jpeg" alt="Saxophone Study #4"/><br/>
+        <h3>Saxophone Study #4</h3>
+        <h4><i>2024</i>, acrylic on canvas; sound</h4>
+
+        <img src="DSC08476.jpeg" alt="Saxophone Study #3"/><br/>
+        <h3>Saxophone Study #3</h3>
+        <h4><i>2024</i>, acrylic on canvas; sound</h4>
+
+        <img src="DSC08462.jpeg" alt="Saxophone Study #2"/><br/>
+        <h3>Saxophone Study #2</h3>
+        <h4><i>2024</i>, acrylic on canvas; sound</h4>
+
+        <img src="DSC08446.jpeg" alt="Saxophone Study #1"/><br/>
+        <h3>Saxophone Study #1</h3>
+        <h4><i>2024</i>, gesso, ink, pencil on paper; sound</h4>
+
         <img src="HEI_230728_07.jpg" alt="Songbook for Black Constellations, for Trio" /><br/>
         <img src="HEI_230728_20.jpg" alt="Songbook for Black Constellations, for Trio alt" /><br/>
         <img src="HEI_230728_16.jpg" alt="Songbook for Black Constellations, for Trio second alt 2" /><br/>

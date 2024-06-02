@@ -1,3 +1,18 @@
+#update {
+  color: blue;
+  margin-top: 20px;
+  max-width: 400px;
+  transition: background-color 150ms ease;
+  transition: padding 150ms ease;
+}
+
+#update:hover {
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+}
+
 nav ul {
   margin: 20px 0px;
 }

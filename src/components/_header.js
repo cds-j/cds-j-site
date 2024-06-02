@@ -20,6 +20,10 @@ function Header() {
       <header>
         <h1>corey de'juan sherrard jr</h1>
         <h2>artist + engineer</h2>
+        <div id="update">
+          <h3>**UPDATE**</h3>
+          <h4>Showing at <b>George Washington Carver Museum & Cultural Center</b> for <b>Small Black Museum Vol. 3</b> group exhibition alongside <b>Nitashia Johnson</b> & <b>taylor barnes</b></h4>
+        </div>
       </header>
       <Nav/>
     </div>

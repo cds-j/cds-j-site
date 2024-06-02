@@ -8,11 +8,11 @@ function AboutMe() {
           Corey De&apos;Juan Sherrard Jr (born 1996, Houston, TX) engineers a developing system for composing songs and generating objects that 
           respond to the deficit of black radical propaganda within a world culture. He began producing music in 2013 and, through undergrad, 
           exploring different mediums/materials for design and artmaking. He graduated from the <a href="https://www.uh.edu" target="_blank" rel="noreferrer"><b>University of Houston</b></a> with a BS in Digital Media, 
-          consults at the <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>High School for Performing and Visual Arts</b></a> and 
-          spins jazz at <a href="https://ktru.org/" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1 FM</b></a>. Sherrard showed his first solo 
+          consults at the <a href="https://www.houstonisd.org/hspva" target="_blank" rel="noreferrer"><b>Kinder High School for Performing and Visual Arts</b></a> and 
+          spins jazz at <a href="https://ktru.org/" target="_blank" rel="noreferrer"><b>KTRU-LP 96.1 FM</b></a> for his weekly show <b>STEAM</b>. Sherrard showed his first solo 
           exhibition <i>Songbook for Black Constellations</i> at <a href="https://www.sanman.company/" target="_blank" rel="noreferrer"><b>Sanman Studios</b></a> in 2023 and has since
-          shown at <a href="https://www.sawyeryards.com/" target="_blank" rel="noreferrer"><b>Sabine Street Studios</b></a>, <a href="https://www.houstonendowment.org/" target="_blank" rel="noreferrer"><b>Houston Endowment</b></a>,
-          and <a href="https://www.theccma.org/" target="_blank" rel="noreferrer"><b>Cleve Carney Museum of Art</b></a>. 
+          shown at <a href="https://www.sawyeryards.com/" target="_blank" rel="noreferrer"><b>Sabine Street Studios</b></a>, <a href="https://www.houstonendowment.org/" target="_blank" rel="noreferrer"><b>Houston Endowment</b></a>, <a href="https://www.theccma.org/" target="_blank" rel="noreferrer"><b>Cleve Carney Museum of Art</b></a>,
+          and the <a href="https://www.austintexas.gov/department/george-washington-carver-museum-cultural-and-genealogy-center" target="_blank" rel="noreferrer"><b>George Washington Carver Museum and Cultural Center</b></a>. 
           He is a Jones Artist Awardee and an alumni of the <a href="https://sfpc.study/" target="_blank" rel="noreferrer"><b>School for Poetic Computation</b></a>.
         </p>
 

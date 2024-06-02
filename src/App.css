@@ -19,7 +19,7 @@ h5 {
 
 h1,
 h2 {
-  font-size: 18pt;
+  font-size: 14pt;
 }
 
 h2,
@@ -32,13 +32,13 @@ h4,
 p,
 a,
 li {
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 p, 
 li, 
 a {
-  font-family: "Times New Roman", serif;
+  font-family: Helvetica, sans-serif;
   letter-spacing: -0.2pt;
 }
 
@@ -104,21 +104,8 @@ nav .underconstruction {
   color: red;
 }
 
-#works-at-work-pieces {
-  margin: 20px 0px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.works-at-work-piece {
-  margin: 0px 10px;
-}
-
-#works-at-work-pieces img {
-  border: 2px solid black;
-  height: 250px;
-  width: auto;
+#about-me h3 {
+  text-decoration: underline;
 }
 
 #design-project-grid {

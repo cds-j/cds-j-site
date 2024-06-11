@@ -104,10 +104,6 @@ nav .underconstruction {
   color: red;
 }
 
-#about-me h3 {
-  text-decoration: underline;
-}
-
 #design-project-grid {
   display: flex;
   flex-direction: column;

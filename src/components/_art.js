@@ -5,6 +5,51 @@ function Art() {
       <h2>selected pieces from interdisciplinary practice</h2>
       
       <div>
+        <img src="DSC08496.JPG" alt="Microphone installation"/><br/>
+        <h3>Untitled</h3>
+        <h4><i>2024</i>, seven microphone stands and microphones<br/>
+        Installation</h4>
+
+        <img src="saxophone-study-12.jpeg" alt="Saxophone Study #12"/><br/>
+        <h3>Saxophone Study #12</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="saxophone-study-11.jpeg" alt="Saxophone Study #11"/><br/>
+        <h3>Saxophone Study #11</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="saxophone-study-10.jpeg" alt="Saxophone Study #10"/><br/>
+        <h3>Saxophone Study #10</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+        
+        <img src="saxophone-study-9.jpeg" alt="Saxophone Study #9"/><br/>
+        <h3>Saxophone Study #9</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="saxophone-study-8.jpeg" alt="Saxophone Study #8"/><br/>
+        <h3>Saxophone Study #8</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="saxophone-study-7.jpeg" alt="Saxophone Study #7"/><br/>
+        <h3>Saxophone Study #7</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="saxophone-study-6.jpeg" alt="Saxophone Study #6"/><br/>
+        <h3>Saxophone Study #6</h3>
+        <h4><i>2024</i>, photo<br/>
+        12 x 12 in.</h4>
+
+        <img src="DSC08454.jpeg" alt="Saxophone Study #5"/><br/>
+        <h3>Saxophone Study #5</h3>
+        <h4><i>2024</i>, air-dry clay<br/>
+        4 x 1½ x 1 in.</h4>
+
         <img src="DSC08480.jpeg" alt="Saxophone Study #4"/><br/>
         <h3>Saxophone Study #4</h3>
         <h4><i>2024</i>, acrylic on canvas; sound<br/>

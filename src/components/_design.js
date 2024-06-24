@@ -7,6 +7,17 @@ function Design() {
         <div id="design-project-grid">
           <div className="design-project">
             <div>
+              <h3>2023-n/a<br/>Fliers for <i><a href="https://instagram.com/tdobp" target="_blank" rel="noreferrer">STEAM</a></i> radio show</h3>
+              <p>
+                <i>Adobe Illustrator</i> • These were fliers that I created every week for the
+                second iteration of my radio show at KTRU. The template makes editing fliers for every
+                week a short process.
+              </p>
+            </div>
+            <img src="design work for portfolio/block-of-fliers.jpg" alt="Four by four grid of fliers for STEAM radio show"></img>
+          </div>
+          <div className="design-project">
+            <div>
               <h3>2023<br/>Ad for <i>Gran Blooming</i> radio show</h3>
               <p>
                 <i>Adobe After Effects</i> • This was some promotional material for my radio

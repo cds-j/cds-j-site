@@ -44,6 +44,14 @@ function AboutMe() {
           Cleve Carney Museum of Art<br/>
           October 7, 2023 - January 4, 2024
         </p>
+
+        <h3>performances</h3>
+        <p>
+          <b>2024 Texas Biennial</b><br/>
+          <i>"Performance of a Songbook for Black Constellations"</i><br/>
+          Blaffer Art Museum<br/>
+          October 18, 2024
+        </p>
         <p>
           <a href="https://docs.google.com/document/d/1svVGmhKcmaLOwaf09L4IKyyQiTEcJPIx-UgmSgJcs1A/edit?usp=sharing" target="_blank" rel="noreferrer"><b>Resume</b></a>
         </p>

@@ -5,6 +5,11 @@ function Art() {
       <h2>selected pieces from interdisciplinary practice</h2>
       
       <div>
+        <img src="saxophone-study-13.jpg" alt="Saxophone Study #13"/><br/>
+        <h3>Saxophone Study #13</h3>
+        <h4><i>2024</i>, pencil on paper and ink on tracing in glass frame<br/>
+        20 x 12 in.</h4>
+
         <img src="DSC08496.JPG" alt="Microphone installation"/><br/>
         <h3>Untitled</h3>
         <h4><i>2024</i>, seven microphone stands and microphones<br/>

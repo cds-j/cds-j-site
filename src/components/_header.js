@@ -21,19 +21,24 @@ function Header() {
       <header>
         <h1>corey de'juan sherrard jr</h1>
         <h2>artist + engineer</h2>
-        <div id="update">
-          <h3>**NOW**</h3>
-          <h4>
-            Showing at <b>George Washington Carver Museum & Cultural Center</b> for <b>Small Black Museum Vol. 3</b> group exhibition alongside <b>Nitashia Johnson</b> & <b>taylor barnes</b>.<br/>
-            <b>**Closes on October 12, 2024**</b>
-          </h4>
-        </div>
       </header>
       <Nav/>
     </div>
   )
 }
 
+// copy the update div underneath at the bottom of the header tag above whenever
+// you have something to share as far as updates
+
+/*
+<div id="update">
+          <h3>**NOW**</h3>
+          <h4>
+            Showing at <b>George Washington Carver Museum & Cultural Center</b> for <b>Small Black Museum Vol. 3</b> group exhibition alongside <b>Nitashia Johnson</b> & <b>taylor barnes</b>.<br/>
+            <b>**Closes on October 12, 2024**</b>
+          </h4>
+        </div>
+*/
 // <li><Link to="/design">design</Link></li>
 // <li><Link to="/programming">programming</Link></li>
 

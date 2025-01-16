@@ -24,11 +24,21 @@ function AboutMe() {
         </p>
         <p>
           <b>Songbook for Black Constellations</b><br/>
-          Sanman Studios; Sabine Street Studios (Curated by William Baldwin)<br/>
+          Sanman Studios; Sabine Street Studios<br/>
           January 7, 2023; May 27 - July 8, 2023
         </p>
         
         <h3>group exhibitions</h3>
+        <p>
+          <b>The Last Sky: Memory Drift (Part II)</b><br/>
+          Sabine Street Studios<br/>
+          November 14, 2024 - January 11, 2025
+        </p>
+        <p>
+          <b>Hot Bod</b><br/>
+          Basket Books & Art, Houston, Texas<br/>
+          July 27 - August 17, 2024
+        </p>
         <p>
           <b>Small Black Museum Vol. 3</b><br/>
           George Washington Carver Museum and Cultural Center<br/>
@@ -36,7 +46,7 @@ function AboutMe() {
         </p>
         <p>
           <b>Crossroads: Eastward Imprints - Houston Artists in Austin</b><br/>
-          East Austin Studio Tours (Curated by Jonathan Paul Jackson)<br/>
+          East Austin Studio Tours<br/>
           November 4 - November 19, 2023
         </p>
         <p>

@@ -16,7 +16,7 @@ function AboutMe() {
           He is a Jones Artist Awardee and an alumni of the <a href="https://sfpc.study/" target="_blank" rel="noreferrer"><b>School for Poetic Computation</b></a>.
         </p>
 
-        <h3>solo exhibitions</h3>
+        <h3 className="exhibitions-header">solo exhibitions</h3>
         <p>
           <b>Songbook for Black Constellations, for Trio</b><br/>
           Jones Artist Award; Houston Endownment & Weingarten Art Group<br/>
@@ -28,7 +28,7 @@ function AboutMe() {
           January 7, 2023; May 27 - July 8, 2023
         </p>
         
-        <h3>group exhibitions</h3>
+        <h3 className="exhibitions-header">group exhibitions</h3>
         <p>
           <b>The Last Sky: Memory Drift (Part II)</b><br/>
           Sabine Street Studios<br/>
@@ -55,7 +55,7 @@ function AboutMe() {
           October 7, 2023 - January 4, 2024
         </p>
 
-        <h3>performances</h3>
+        <h3 className="exhibitions-header">performances</h3>
         <p>
           <b>2024 Texas Biennial</b><br/>
           <i>"Performance of a Songbook for Black Constellations"</i><br/>

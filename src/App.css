@@ -35,6 +35,15 @@ li {
   font-size: 12pt;
 }
 
+.component h3.exhibitions-header {
+  color: white;
+  background-color: black;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  width: 50%;
+}
+
 p, 
 li, 
 a {

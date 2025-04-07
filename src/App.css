@@ -51,10 +51,6 @@ a {
   letter-spacing: -0.2pt;
 }
 
-li {
-  list-style: none;
-}
-
 a {
   color: black;
   transition: background-color 150ms ease;

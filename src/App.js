@@ -14,6 +14,7 @@ import Design from './components/_design';
 import Programming from './components/_programming';
 import AboutMe from './components/_aboutme';
 import Footer from './components/_footer';
+import OpenNote from './components/_opennotes';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path="*" element={<Home/>} />
             <Route path="/" element={<Home/>} />
             <Route path="/art" element={<Art/>} />
+            <Route path="/opennotes" element={<OpenNote/>} />
             <Route path="/design" element={<Design/>} />
             <Route path="programming" element={<Programming/>} />
             <Route path="about-me" element={<AboutMe/>} />

@@ -25,8 +25,8 @@ function Header() {
         <div id="update">
           <h3>**CURRENT**</h3>
           <h4>
-            <b>Sanman Studios Arts Residency</b> in Houston, TX and<br/>
-            <b>Wave Farm Radio Art Residency</b> in Acra, NY.<br/><br/>
+            <b>Sanman Studios Arts Residency</b> in Houston, TX and
+            <b> Wave Farm Radio Art Residency</b> in Acra, NY.<br/><br/>
             <i>In-Studio at Sanman Studios from March to late 2025</i>
           </h4>
         </div>

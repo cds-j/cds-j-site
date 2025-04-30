@@ -22,8 +22,10 @@ function Header() {
       <header>
         <h1>corey de'juan sherrard jr</h1>
         <h2>artist + engineer</h2>
+        <Nav/>
         <div id="update">
-          <h3>**CURRENT**</h3>
+          <h3>**ART**</h3>
+          <hr/>
           <h4>
             <b>Sanman Studios Arts Residency</b> in Houston, TX and
             <b> Wave Farm Radio Art Residency</b> in Acra, NY.<br/><br/>
@@ -31,7 +33,7 @@ function Header() {
           </h4>
         </div>
       </header>
-      <Nav/>
+      
     </div>
   )
 }

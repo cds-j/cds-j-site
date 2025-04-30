@@ -35,6 +35,23 @@ function OpenNote() {
             <li><a href="https://brainfeeder.bandcamp.com/" target="_blank" rel="noreferrer"><b>Brainfeeder Records</b></a></li>
           </ol>
         </div>
+
+        <hr/><br/>
+
+        <div>
+          <h3><a href="https://www.youtube.com/@photodirect" target="_blank" rel="noreferrer">PHOTODIRECT</a></h3>
+          <p>Alex Harsley's YouTube channel... Archival footage of NY arts/black arts through the 80s up until the 2010s</p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/kqMkBysqHZc?si=xkJw3r_9YxY7rTg1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/WHCDT_79Ax8?si=oljtq64qqsjaevk1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <hr/><br/>
+
+        <div>
+          <h3>LTJ BUKEM + MC CONRAD ★ BBC RADIO ONE ESSENTIAL MIX</h3>
+          <p>One of my favorite mixes</p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/9LdQz52vSyM?si=67n2sfH29zP1qmfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
       </div>
     </div>
   )

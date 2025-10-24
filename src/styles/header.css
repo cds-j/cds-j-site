@@ -1,14 +1,14 @@
 #update {
-  color: blue;
-  margin-top: 20px;
-  max-width: 400px;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 500px;
   transition: background-color 150ms ease;
   transition: padding 150ms ease;
 }
 
 #update:hover {
-  color: white;
-  background-color: blue;
+  color: black;
   padding: 10px;
   border-radius: 10px;
 }

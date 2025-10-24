@@ -1,8 +1,8 @@
 function AboutMe() {
   return (
     <div id="#about-me" className="component">
-      <h1>about me</h1>
-      <h2>corey de&apos;juan sherrard jr</h2>
+      <h1>About Me</h1>
+      <h2>Corey De&apos;Juan Sherrard Jr</h2>
       <div>
         <p>
           Corey De&apos;Juan Sherrard Jr (born 1996, Houston, TX) engineers a developing system for composing songs and generating objects that 

@@ -24,12 +24,11 @@ function Header() {
         <h2>artist + engineer</h2>
         <Nav/>
         <div id="update">
-          <h3>**ART**</h3>
+          <h3>**UPDATE**</h3>
           <hr/>
           <h4>
-            <b>Sanman Studios Arts Residency</b> in Houston, TX and
-            <b> Wave Farm Radio Art Residency</b> in Acra, NY.<br/><br/>
-            <i>In-Studio at Sanman Studios from March to late 2025</i>
+            <b>Sanman Studios</b> artist-in-residence<hr/>
+            <b>Public Index</b> exhibition @ <b>Project Row Houses</b><br/>October 18, 2025 - February 15, 2026
           </h4>
         </div>
       </header>

@@ -1,16 +1,16 @@
 #update {
   color: black;
-  padding: 10px;
+  font-size: 10pt;
+  padding: 10px 10px 10px 0px;
   border-radius: 10px;
   max-width: 500px;
   transition: background-color 150ms ease;
   transition: padding 150ms ease;
 }
 
-#update:hover {
-  color: black;
-  padding: 10px;
-  border-radius: 10px;
+#update .exhibition-title {
+  background-color: black;
+  color: white;
 }
 
 #performance-updates {

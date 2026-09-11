@@ -16,39 +16,6 @@ function Design() {
             </div>
             <img src="design work for portfolio/block-of-fliers.jpg" alt="Four by four grid of fliers for STEAM radio show"></img>
           </div>
-          <div className="design-project">
-            <div>
-              <h3>2023<br/>Ad for <i>Gran Blooming</i> radio show</h3>
-              <p>
-                <i>Adobe After Effects</i> • This was some promotional material for my radio
-                show arranged and exported with a quick turnaround. 
-              </p>
-            </div>
-            <iframe
-              width="560"
-              height="560" 
-              src="https://www.youtube.com/embed/PoMTOwcQoLg" 
-              title="gran blooming ★ ad one" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-              allowfullscreen>
-            </iframe>
-          </div>
-          <hr/>
-
-          <div className="design-project">
-            <div>
-              <h3>2023<br/>Flier for Alexis Pye's <i>You Really Livin</i> art show</h3>
-              <p>
-                <i>Adobe Illustrator</i> • This flier was a quick turnaround because 
-                I received valuable in-person feedback and my friend trusted my idea for this.
-                The printed takeaway includes art writing from Veronica Carlton and further information
-                for this show provided by Lawndale Art Center in Houston, Texas.
-              </p>
-            </div>
-            <img src="design work for portfolio/you really livin flier.png" alt="art show flier with dancers in suits"></img>
-          </div>
-          <hr/>
 
           <div className="design-project">
             <div>
@@ -136,30 +103,6 @@ function Design() {
           </div>
           <div className="design-project">
             <img src="design work for portfolio/Keron logo long.png" alt="Logo for Keron Alleyne"></img>
-          </div>
-          <hr/>
-
-          <div className="design-project">
-            <div>
-              <h3>2021<br/>Flier for Alexis Pye's <i>The Real & The Fantastic, The Irrational Joys of the Axis</i> art show</h3>
-              <p>
-                <i>Adobe Photoshop, copier</i> • Flier for painter Alexis Pye's solo show at Inman Gallery
-                in Houston, Texas. Scanned foliage and cutouts of different images from her studio space.
-              </p>
-            </div>
-            <img src="design work for portfolio/flier for art show.png" alt="Flier for an art show"></img>
-          </div>
-          <hr/>
-
-          <div className="design-project">
-            <div>
-              <h3>2018<br/>Album cover for <i>Low End Dirt, Jazz & Bass</i> project</h3>
-              <p>
-                <i>Adobe Photoshop, craft materials</i> • This was an album cover crafted
-                by hand using canvas, acrylic paint, paint marker, pen, pencil, etc.
-              </p>
-            </div>
-            <img src="design work for portfolio/LEDJAB-Cover.png" alt="Colorful album cover made with craft materials"></img>
           </div>
           <hr/>
         </div>

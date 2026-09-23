@@ -12,7 +12,12 @@ function AboutMe() {
           Under the pseudonym <a href="https://soundcloud.com/yaaje" target="_blank" rel="noreferrer"><b>Yaajé</b></a>, he releases music solo and collaboratively with his band <b>Essex Moor</b>.
         </p>
         <p>
-          <a href="https://docs.google.com/document/d/1svVGmhKcmaLOwaf09L4IKyyQiTEcJPIx-UgmSgJcs1A/edit?usp=sharing" target="_blank" rel="noreferrer"><b>CV</b></a>
+          <i>Graphic Designer</i>, <a href="https://www.lawndaleartcenter.org/" target="_blank" rel="noreferrer"><b>Lawndale Art Center</b></a><br/>
+          <i>Archivist & Resident</i>, <a href="https://www.icehouseradio.com/" target="_blank" rel="noreferrer"><b>Ice House Radio</b></a><br/>
+          <i>Co-founder</i>, <a href="https://www.instagram.com/amara___lab" target="_blank" rel="noreferrer"><b>AMARA</b></a><br/>
+        </p>
+        <p>
+          <a href="https://docs.google.com/document/d/1svVGmhKcmaLOwaf09L4IKyyQiTEcJPIx-UgmSgJcs1A/edit?usp=sharing" target="_blank" rel="noreferrer"><b>Curriculum Vitae</b></a>
         </p>
       </div>
     </div>

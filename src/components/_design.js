@@ -7,6 +7,14 @@ function Design() {
         <div id="design-project-grid">
           <div className="design-project">
             <div>
+              <h3>2025<br/>Flier for <i>2024 Texas Biennial</i> performance</h3>
+            </div>
+            <img src="design work for portfolio/flier for tx biennial performance.png" alt="2025 Texas Biennial flier"></img>
+          </div>
+
+          <hr/>
+          <div className="design-project">
+            <div>
               <h3>2023-n/a<br/>Fliers for <i><a href="https://instagram.com/tdobp" target="_blank" rel="noreferrer">STEAM</a></i> radio show</h3>
               <p>
                 <i>Adobe Illustrator</i> • These were fliers that I created every week for the
